@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NavegacaoTelas</string>
+    <string name="app_title">Games</string>
+    <string name="list_title">Lista dos games!</string>
+    <string name="button_add">Adicionar</string>
+    <string name="button_edit">Editar</string>
+    <string name="edit_text_id">ID</string>
+    <string name="edit_text_nome">Nome</string>
+    <string name="edit_text_preco">Preço</string>
+    <string name="button_concluir">Concluir</string>
+    <string name="button_cancelar">Cancelar</string>
+    <string name="button_delete">Deletar</string>
+</resources>
